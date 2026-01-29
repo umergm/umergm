@@ -1,16 +1,20 @@
-## Hi there 👋
+# Umer Ghazanfar Malik (UGM)
 
-<!--
-**umergm/umergm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Civil Engineer (PE) and Fellow of the Chartered Institute of Arbitrators (FCIArb). I work at the intersection of infrastructure delivery, FIDIC contract management, and dispute avoidance and resolution.
 
-Here are some ideas to get you started:
+This profile is where I publish practical tools that support clear decisions on complex projects, with an evidence first mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- FIDIC contract administration and claims support
+- Dispute boards and arbitration support material
+- Evidence registers, decision logs, and document discipline
+- Project delivery systems for risk, time, and cost control
+
+## What you will find here
+- Templates and checklists for real projects
+- Simple frameworks for disciplined decision making
+- Notes on governance, fairness, and proof in project delivery
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/umerghazanfarmalik/  
+ORCID: 0009 0000 5414 5625
